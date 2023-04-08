@@ -8,4 +8,4 @@ No shadow no soul :(
 
 > Only see a flat plane? Try moving the map to a mountainous area.
 
-More info pleas read article: https://wwwtyro.net/2019/03/21/advanced-map-shading.html
+More info please read article: https://wwwtyro.net/2019/03/21/advanced-map-shading.html
