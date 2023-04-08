@@ -1,0 +1,35 @@
+{
+  "name": "three-terrain",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@deck.gl/core": "^8.9.7",
+    "@deck.gl/layers": "^8.9.7",
+    "@deck.gl/mapbox": "^8.9.7",
+    "@types/mapbox-gl": "^2.7.10",
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.33",
+    "@types/react-dom": "18.0.11",
+    "clsx": "^1.2.1",
+    "eslint": "8.37.0",
+    "eslint-config-next": "13.2.4",
+    "gl-matrix": "^3.4.3",
+    "mapbox-gl": "^2.13.0",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "regl": "^2.1.0",
+    "three": "^0.151.3",
+    "typescript": "5.0.3"
+  },
+  "devDependencies": {
+    "@types/three": "^0.150.1",
+    "lil-gui": "^0.18.1"
+  }
+}
